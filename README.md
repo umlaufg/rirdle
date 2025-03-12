@@ -10,5 +10,9 @@ Square brackets mean the letter is in the correct position (green in Wordle);
 Parentheses mean the letter is contained in the answer, but at an incorrect position (yellow in Wordle);
 If the letter has neither around it, it's not in the word (gray in Wordle)
 
+**Screenshot:**
+
+![image](https://github.com/umlaufg/rirdle/blob/main/docs/images/rirdle_screenshot_1.PNG?raw=true)
+
 #
 *(This project is for demonstration purposes, but will likely be improved over time.)*
