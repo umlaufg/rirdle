@@ -1,5 +1,5 @@
 # Rirdle
-Wordle clone written in RISC-V Assembly. Written and compatible with RARS.
+Wordle clone written in RISC-V Assembly. Compatible with RARS.
 
 ***(This project is for demonstration purposes, but will likely be improved over time.)***
 
