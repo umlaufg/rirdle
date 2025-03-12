@@ -11,5 +11,4 @@ Parentheses mean the letter is contained in the answer, but at an incorrect posi
 If the letter has neither around it, it's not in the word (gray in Wordle)
 
 #
-
 *(This project is for demonstration purposes, but will likely be improved over time.)*
